@@ -29,7 +29,7 @@
 <h6> Introduction</h6>
 <h6> Formula Pivot Table </h6>
 <h6> Charts And Dashboard</h6>
-<h6> VBA MacrsAutomation</h6>
+<h6> VBA MacrosAutomation</h6>
 <h6> Statistics UseCase</h6>
 <h6> Probability Permutation Combination</h6>
 <h6> Population & Sampling</h6>
